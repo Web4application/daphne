@@ -3,3 +3,4 @@ cd daphne
 ./install-ubuntu-packages.sh
 ./build.sh
 ./run-daphne.sh
+./install-ubuntu-packages.sh
